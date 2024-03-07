@@ -1,0 +1,51 @@
+body {
+    background-color: #ffffff;
+}
+
+
+h1 {
+color: blueviolet;
+position: absolute !important;
+top: 350px !important;
+left: 250px;
+z-index: 500;
+font-size: 70px;
+font-family: "Lobster", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.boxborder{
+    max-width: 100vh;
+    max-height: 100vh;
+}
+
+.banner {
+   max-width: 100vh;
+   max-height: 90vh;
+   position: absolute;
+   z-index: 90;
+}
+
+.birthday-card {
+    width: 60vh;
+    position: relative;
+    left: 110vh;
+    font-size: 14px;
+}
+
+.video {
+    height: 90px;
+    width: 160px;
+    position: absolute;
+    top: 350px;
+    left: 0px;
+}
+
+.embed {
+    position: relative;
+    top: 25px;
+    left: 215px;
+    border: 0;
+
+}
